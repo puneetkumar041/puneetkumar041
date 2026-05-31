@@ -108,9 +108,9 @@ Remote database engineering roles and freelance engagements — especially:
 
 ## Let's Connect
 
-Best way to reach me for work inquiries is **[LinkedIn](https://www.linkedin.com/in/puneetkumardataopsengineer/)**. I respond to real conversations, not cold form messages.
+Best way to reach me for work inquiries is **[LinkedIn](https://www.linkedin.com/in/puneetkumardatabaseengineer/)**. I respond to real conversations, not cold form messages.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Puneet%20Kumar-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/puneetkumardataopsengineer/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Puneet%20Kumar-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/puneetkumardatabaseengineer/)
 
 ---
 
