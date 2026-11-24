@@ -12,7 +12,7 @@
 
 ## Hey, I'm Puneet 👋
 
-Senior Database Engineer based in **Vancouver, Canada**. I specialize in keeping databases fast, reliable, and scalable — the kind that can't go down at 2am without someone losing sleep.
+Senior Database Engineer based in **Montreal, Canada**. I specialize in keeping databases fast, reliable, and scalable — the kind that can't go down at 2am without someone losing sleep.
 
 I've spent years working deep in MySQL, Aurora, PostgreSQL, and MongoDB at production scale, and I genuinely enjoy the performance tuning puzzle. Currently at **Zendesk**, working on cloud database infrastructure and automation.
 
